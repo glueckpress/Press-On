@@ -5,6 +5,8 @@ A WordPress Song
 
 * 🔊 [Play/download mp3](https://drive.google.com/file/d/0B2xd_XNpH9eSS2F5eENZWjNoeU0/view?usp=sharing)
 * 🔊 [Play/download m4a](https://drive.google.com/file/d/0B2xd_XNpH9eSZlNMSDkzdlhNVVE/view?usp=sharing)
+* 👓 [Lyrics](https://drive.google.com/file/d/0B2xd_XNpH9eSbWd6b200OXJtN0U/view?usp=sharing)
+* 🎹 [Lead Sheet](https://drive.google.com/file/d/0B2xd_XNpH9eSVHNqTUN4MlRCRkE/view?usp=sharing)
 
 ---
 
