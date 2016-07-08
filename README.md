@@ -3,8 +3,8 @@ A WordPress Song
 
 ---
 
-* 🔊 [Play/download mp3](https://drive.google.com/open?id=0B2xd_XNpH9eSS2F5eENZWjNoeU0)
-* 🔊 [Play/download m4a](https://drive.google.com/open?id=0B2xd_XNpH9eSZlNMSDkzdlhNVVE)
+* 🔊 [Play/download mp3](https://drive.google.com/file/d/0B2xd_XNpH9eSS2F5eENZWjNoeU0/view?usp=sharing)
+* 🔊 [Play/download m4a](https://drive.google.com/file/d/0B2xd_XNpH9eSZlNMSDkzdlhNVVE/view?usp=sharing)
 
 ---
 
