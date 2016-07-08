@@ -1,6 +1,5 @@
 Press On
-======================================
-words & music: Caspar Hübinger
+---
 
 All ye web dev and ye hipster folk
 gather round my piano young and old
@@ -38,7 +37,7 @@ double you pee, drama smell
 But thank god that WordCamp whoop-de-do
 is coming to a city near  you too
 get a full charge of good people foo
-#WCEU
+hashtag WCEU
 
 Ain’t no feed never be fetched to far…
 
@@ -49,7 +48,7 @@ just not yet in the mix
 First let’s customize the shit out of
 site icons and nav menu stuff
 mak’em passwords safe as 9" cuffs
-#+space h2-6
+hash-space h2-6
 
 Ain’t no feed never be fetched to far…
 
@@ -74,3 +73,9 @@ push, git -commit, yeah, this is it
 and the answer’s always grace
 
 Ain’t no feed never be fetched to far…
+
+---
+
+© Caspar Hübinger 2016
+Released under CC BY-SA 4.0
+License info: https://github.com/glueckpress/Press-On/blob/master/LICENSE.md
