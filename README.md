@@ -15,4 +15,4 @@ Originally planned and arranged to be performed as a duet by Ms. Lauryn Hill and
 
 ---
 
-_Music, lyrics, and audio files published under [CC BY-SA 4.0](https://github.com/glueckpress/Press-On/blob/master/LICENSE.md)._
+_Words and music: Caspar Hübinger. Sound: Jonathan Richter. Published under [CC BY-SA 4.0](https://github.com/glueckpress/Press-On/blob/master/LICENSE.md)._
